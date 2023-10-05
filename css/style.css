@@ -1,0 +1,1328 @@
+body{
+background-image:url(https://wallpaper-house.com/data/out/7/wallpaper2you_145779.jpg) ;
+background-repeat: no-repeat;
+background-size: 100% 100vh ;
+height: 7600px;
+}
+.h1{
+    margin-top: 100px;
+margin-left: 780px;
+font-size: 50px;
+width: 1000px;
+height: 400px;
+color: aliceblue;
+}
+.p{
+font-size: 25px;
+font-weight: 800;
+
+color: aliceblue;
+}
+.header{
+    z-index: 5000;
+overflow: auto;
+position: fixed;
+top: 0%;
+left: 0%;
+width: 100%;
+height: 6%;
+background-color: rgb(0, 0, 0)
+}
+.list {
+    list-style-type: none;
+    float: right;
+margin-right: 25px;
+}
+.list li {
+display: inline-block;
+color: aliceblue;
+margin-left: 25px;
+font-size: 22px;
+}
+.list li a {
+color: aliceblue;
+text-decoration: none;
+
+}
+.img1{
+width: 10%;
+height:100%; 
+}
+.list li :hover{
+color: rgba(255, 235, 235, 0.589);
+}
+.b1{
+    width: 180px;
+    height: 60px;
+    font-size: 25px;
+    margin-top: 340px;
+    margin-left: 720px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    border-radius: 5%;
+   
+}
+.b2{
+    width: 180px;
+    height: 60px;
+    font-size: 25px;
+    margin-left: 60px;
+    color: aliceblue;
+    background-color: blue;
+    border :1px;
+    border-radius: 5%;
+    border-width: 40px;
+
+}
+.b1:hover{
+    background-color: rgb(150, 148, 148);
+
+    
+}
+.b2:hover{
+background-color: rgb(7, 7, 105);
+
+}
+.pro2{
+color: black;
+margin-top: 210px;
+text-align: center;
+font-size: 30px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pro2 h2{
+margin-top: -2%;
+
+}
+.blank{
+width: 200px;
+height: 5px;
+background-color: rgb(32, 32, 252);
+margin-left: 840px;
+margin-top: -1%;
+}
+.parent{
+    overflow: auto;
+   z-index: 100;
+    position: relative;
+}
+.ch1{
+
+width: 400px;
+height: 200px;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 12%;
+margin-right: 8%;
+margin-top: 5%;
+border: 2%;
+border-style:outset;
+border-color: rgb(156, 154, 154);
+border-radius: 4px;
+position: relative;
+}
+.ch2{
+width: 400px;
+height: 200px;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: -2%;
+margin-right: 1%;
+margin-top: 5%;
+border: 2%;
+border-style:outset;
+border-color: rgb(156, 154, 154);
+border-radius: 4px;
+position: relative;
+}
+.ch3{
+width: 400px;
+height: 200px;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 68%;
+position: relative;
+margin-top: -11%;
+border: 2%;
+border-style:outset;
+border-width: 0cap;
+border-color: rgb(156, 154, 154);
+border-radius: 4px;
+}
+.i1{
+font-size: 30px;
+margin-top: 4%;
+margin-left: 180px;
+color:rgb(55, 55, 255) ;
+
+}
+.ch1:hover i{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch1:hover .pp{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+
+.ch1:hover .pp2{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch1:hover .pp3{
+    color: rgb(0, 72, 136);
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch2:hover i{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch2:hover .pp{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+
+.ch2:hover .pp2{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch2:hover .pp3{
+    color: rgb(0, 72, 136);
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch3:hover i{
+    color: rgb(255, 255, 255);
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch3:hover .pp{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+
+.ch3:hover .pp2{
+    color: aliceblue;
+    z-index: 1000;
+    position: relative;
+    
+}
+.ch3:hover .pp3{
+    color: rgb(0, 72, 136);
+    z-index: 1000;
+    position: relative;
+    
+}
+.pp{
+font-size: 30px;
+font-weight: 800;
+text-align: center;
+margin-top: -.5%;
+
+}
+.pp2{
+    font-size:22px ;
+    font-weight:bold;
+    text-align: center;
+    margin-top: -8%;
+    opacity: .7;
+ 
+}
+.pp3{
+    font-weight:bold;
+    text-align: center;
+   
+}
+.pp3 a{
+text-decoration:none ;
+font-size:22px ;
+color:rgb(55, 55, 255) ;
+
+
+}
+.ch1::after{
+position: absolute;
+content: "";
+width: 100%;
+height: 0%;
+top: 0;
+
+background-color: rgb(0, 0, 0);
+opacity: 0;
+transition: .5s;
+}
+.ch1:hover::after{
+width: 100%;
+height: 100%;
+opacity: 1;
+}
+.ch2::after{
+position: absolute;
+content:"";
+width: 100%;
+height: 0%;
+top: 0;
+background-color: rgb(0, 0, 0);
+opacity: 0;
+transition: .5s;
+
+}
+.ch2:hover::after{
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    }
+    .ch3::after{
+        position: absolute;
+        content:"";
+        width: 100%;
+        height: 0%;
+        top: 0;
+        background-color:rgb(0, 0, 0) ;
+        opacity : 0;
+        transition: .5s;
+        }
+        .ch3:hover::after{
+            width: 100%;
+            height: 100%;
+            opacity: 1;
+            }
+            .pro3{
+                margin-top: 210px;
+                width: 100%;
+                height: 1300px;
+            background-color: rgb(0, 0, 0,.05);
+            position: absolute;
+            left: 0%;
+            }
+            .pro22{
+                color: black;
+                margin-top: 60px;
+                text-align: center;
+                font-size: 30px;
+
+            }
+            .ph123{
+                width: 80%;
+                height: 500px;
+                margin-top: 70px;
+                margin-left: 180px;
+                z-index: 1;
+               
+            }
+            .ph2{
+         margin-left: 250px;
+         position: relative;
+        z-index: 7;
+                 
+            }
+            .ph3{
+                margin-left: 250px;     
+                position: relative;
+               z-index: 9;
+            }
+            .ph1{
+                margin-left: 50px;
+            position: relative; 
+           z-index: 5;
+             
+            }
+            .ph456{
+                margin-top: 70px;
+                width: 80%;
+                height: 500px;
+                margin-left: 180px;
+            }
+         .overlay {
+         position: absolute;
+         width: 17%;
+         height: 450px;
+         background-color: rgb(7, 7, 7 , .7);
+         z-index: 6;   
+         margin-left: 2%;
+        opacity: 0;
+        transition: .7S;
+   
+         
+        }
+        .overlay2{
+            position: absolute;
+            width: 17%;
+            height: 450px;
+            background-color: rgb(7, 7, 7 , .7);
+            z-index: 8;   
+            margin-left: 31.5%;
+            opacity: 0;
+            transition: .7S;
+        }
+        .overlay3{
+            position: absolute;
+            width: 17%;
+            height: 450px;
+            background-color: rgb(7, 7, 7 , .7);
+            z-index: 10;   
+            margin-left: 60.8%;
+            opacity: 0;
+            transition: .7S;
+        }
+     .overlay:hover{
+      opacity: 1;
+
+     }
+     .overlay2:hover{
+        opacity: 1;
+    
+         }
+    .overlay3:hover{
+        opacity: 1;
+        }
+        .h3{
+     position: relative;
+
+        }
+        .ph123 h3{
+            text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    font-size: 19px;
+    color: rgb(61, 61, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+       margin-top: 55%; 
+       opacity: 1;
+      
+
+        }
+        .ph456 h3{
+            text-transform: uppercase;
+            text-align: center;
+            font-weight: 500;
+            font-size: 19px;
+            color: rgb(61, 61, 255);
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+               margin-top: 55%;
+
+        }
+        .ph123 p{
+            
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       margin-top: 6%; 
+
+        }
+        .ph456 p{
+            
+            text-align: center;
+            font-weight: 500;
+            font-size: 20px;
+            color: rgb(255, 255, 255);
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+               margin-top: 6%; 
+        
+                }
+                .i3{
+            font-size: 30px;
+            color: rgb(255, 255, 255);
+            background-color:rgba(255,0,0,0);
+            margin-left: 35%;
+                }
+                .i4{
+                    font-size: 30px;
+                    color: rgb(255, 255, 255);                   
+                  background-color: rgba(255,0,0,0);
+                    margin-left: 6%;
+                        }
+                        .hh3{
+                            color: black;
+                            margin-top: 1600px;
+                            text-align: center;
+                            font-size: 28px;
+
+                        }
+.icon3{
+ overflow: auto;
+}
+.ic1{
+width: 450px;
+height: 200px;
+float: left;
+border: 1px;
+border-radius: 2%;
+border-color: black;
+border-style: outset;
+margin-left: 4%;
+margin-top: 5%;
+position: relative;
+
+}
+.ic2{
+width: 450px;
+height: 200px;
+float:left ;
+border: 1px;
+border-radius: 2%;
+border-color: black;
+border-style: outset;
+margin-left: 10%;
+margin-top: 5%;
+position: relative;
+}
+
+.ic3{
+width: 450px;
+height: 200px;
+float: left;
+border: 1px;
+border-radius: 2%;
+border-color: black;
+border-style: outset;
+margin-left: 10%;
+margin-top: 5%;
+position: relative;
+
+}
+.hh3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hh2{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 7%;
+font-size: 28px;
+margin-left: 16%;
+color: black;
+}
+.i5{
+    font-size: 30px;
+    margin-top: -12%;
+    margin-left:16px;
+    color: rgb(2, 2, 255, .8);
+    
+
+}
+.par{
+text-align: center;
+font-size: 20px;
+opacity: .7;
+}
+.pro22{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ic3::after{
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 0%;
+    top: 0;
+    left: 0;
+    background-color: rgb(0, 0, 0);
+    opacity: 0;
+    transition: .5s;
+    
+    }
+    .ic3:hover::after{
+        width: 100%;
+        height: 100%;
+        opacity: 1;
+        }
+        
+        .ic1::after{
+            position: absolute;
+            content: "";
+            width: 0%;
+            height: 0%;
+            top: 0;
+            left: 0;
+            background-color: rgb(0, 0, 0);
+            opacity: 0;
+            transition: .5s;
+          
+            }
+            .ic1:hover::after{
+                width: 100%;
+                height: 100%;
+                opacity: 1;
+              
+                }    
+                .ic2::after{
+                    position: absolute;
+                    content: "";
+                    width: 0%;
+                    height: 0%;
+                    top: 0;
+                    left: 0;
+                    background-color: rgb(0, 0, 0);
+                    opacity: 0;
+                    transition: .5s;
+                    }
+                    .ic2:hover::after{
+                        width: 100%;
+                        height: 100%;
+                        opacity: 1;
+                        }
+             .ic1:hover h2 {
+                 color:azure;
+                 position: relative;    
+                 z-index: 1500;       
+               } 
+               .ic2:hover h2 {
+                color:azure;
+                position: relative;    
+                z-index: 1500;       
+              } 
+              .ic3:hover h2 {
+                color:azure;
+                position: relative;    
+                z-index: 1500;       
+              } 
+            .ic1:hover p {
+                color: azure;
+               position: absolute;
+               z-index: 100;
+               } 
+               .ic1:hover i {
+                color: azure;
+                position: absolute;
+           z-index: 1500;
+               } 
+
+               .ic2:hover p {
+                color: azure;
+                z-index: 1000;
+                position: absolute;
+               } 
+               .ic2:hover i {
+                color: azure;
+                z-index: 150;
+              position: absolute;
+               } 
+               .ic3:hover p {
+                color: azure;
+                z-index: 1000;
+                position: absolute;
+                
+               } 
+               .ic3:hover i {
+                color: azure;
+                z-index: 150;
+              position: absolute;
+               } 
+               .pro4{
+                position: absolute;
+                right: 0;
+                left: 0;
+                margin-top: 8%;
+                width: 100%;
+                height: 60%;
+                background-color: rgb(0, 0, 0,.3);
+                
+               }
+
+            .why{
+           font-size: 35px;
+           font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+           color: aliceblue;
+           margin-top: 100px;
+           font-weight: 600;
+
+            }
+            .blank2{
+                width: 200px;
+                height: 5px;
+                background-color: rgb(32, 32, 252);
+                margin-left: 15px;
+                margin-top: -1%;
+                line-height: 1%;
+                }
+            .parg2{
+        font-size: 20px;
+        opacity: .7;
+        margin-top: 50px;
+        color: aliceblue;
+            }
+            .pro5{
+                width: 85%;
+                height: 70%;
+                margin-left: 8%;
+                background-color: rgb(12, 11, 9);
+            }
+            .i6{
+        font-size: 30px;
+        color: blue;
+        margin-top:1% ;
+        display: inline;
+         }
+         .i7{
+        font-size: 30px;
+         color: blue;
+            margin-top: 1%; 
+            display: inline;   
+                
+         }
+        .i8{
+          font-size: 30px;
+         color: blue;
+         margin-top: 1%;                           
+         display: inline;    
+         }
+        .i9{
+         font-size: 30px;
+         color: blue;
+         margin-top: 1%;                                           
+         display: inline;                                       
+         }
+        .pi6{
+            color: aliceblue;
+           font-size: 20px;
+            display: inline; 
+        }
+        .pi7{
+            color: aliceblue;
+            display: inline; 
+            font-size: 20px;
+        }
+        .pi8{
+            color: aliceblue;
+            display: inline; 
+            font-size: 20px;
+        }
+        .pi9{
+            color: aliceblue;
+            display: inline; 
+            font-size: 20px;
+        }
+        .img2{
+     margin-left: 55%;
+     margin-top: -21.5%;
+        }
+        .img3{
+            background-image: url(https://townsquare.media/site/394/files/2022/12/attachment-pariwat-pannium-bNY1Un1bwkQ-unsplash.jpg);
+           background-attachment: fixed;
+           background-repeat:no-repeat;
+          position: absolute;
+            left: 0;
+            width: 100%;
+            height: 30%;
+            margin-top: 45%;
+            
+        }
+
+        .i10{
+            color: rgb(0, 174, 255);
+            font-size: 35px;
+            margin-top: 100px;
+            margin-left: 390px;
+        }
+        .k{
+            font-size: 35px;
+            font-weight: 700;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 370px;
+            color: aliceblue;
+            margin-top: .2%;
+        }
+        .k1{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 360px;
+            color: aliceblue;
+            
+            margin-top: -1.8%;
+            font-size: 18px;
+        }
+        .i11{
+            color: rgb(0, 174, 255);
+            font-size: 35px;
+            margin-top: -132px;
+            margin-left: 800px;
+        }
+        .k2{
+            font-size: 35px;
+            font-weight: 700;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 796px;
+            color: aliceblue;
+            margin-top: -4.7%;
+        }
+        .k3{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 770px;
+            color: rgb(255, 255, 255);
+            
+            margin-top: -1.8%;
+            font-size: 18px;  
+        }
+        .i12{
+            color: rgb(0, 174, 255);
+            font-size: 35px;
+            margin-top: -148px;
+            margin-left: 1190px;
+
+        }
+        .k4{
+            font-size: 35px;
+            font-weight: 700;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 1170px;
+            color: aliceblue;
+            margin-top: -5.5%;
+        }
+        .k5{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 1155px;
+            color: rgb(255, 255, 255);
+            
+            margin-top: -1.8%;
+            font-size: 18px;  
+        }
+        .i13{
+            color: rgb(0, 174, 255);
+            font-size: 35px;
+            margin-top: -169px;
+            margin-left: 1550px;
+        }
+        .k6{
+            font-size: 35px;
+            font-weight: 700;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 1543px;
+            color: aliceblue;
+            margin-top: -6.4%;
+        }
+        .k7{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 1485px;
+            color: rgb(255, 255, 255);
+            
+            margin-top: -1.8%;
+            font-size: 18px;  
+        }
+        .hh4{
+            color: black;
+            margin-top: 1300px;
+            text-align: center;
+            font-size: 28px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .div1{ 
+            font-style: normal;
+            font-weight: 900;
+            font-size:30px;
+            text-align: center;
+            }
+            .parent{
+                overflow: auto;
+            }
+            .div3{
+                width: 300px;
+                height: 400px;
+            background-color: rgb(255, 255, 255);
+            float :left;
+            margin-left: 14%;
+            margin-top: 5%;
+            border-style: solid;
+            border-width: 5%;
+            border-color: black;
+            border-radius: 3%;
+            font-weight: bold;
+            font-size :25px;
+            text-align:center;
+            position: relative;
+            }
+            .div4{
+                width: 300px;
+                height: 400px;
+            background-color: rgb(255, 255, 255);
+            
+            float :left;
+            margin-left: 220px;
+            margin-top: 5%;
+            border-style: solid;
+            border-width: 5%;
+            border-color: rgb(0, 0, 0);
+            border-radius: 3%;
+            font-weight: bold;
+            font-size :25px;
+            text-align:center;
+            position: relative;
+            }
+            .div5{
+                width: 300px;
+                height: 400px;
+            background-color:rgb(255, 255, 255);
+            float: left;
+            margin-left:12%;
+            margin-top:5%;
+            border-style: solid;
+            border-width: 5%;
+            border-color: black;
+            border-radius: 3%;
+            font-weight: bold;
+            font-size :25px;
+            text-align:center;
+            position: relative;
+            }
+            .circle{
+            width:120px;
+            height:120px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 50%;
+            margin-left:88px ;
+            margin-top: -8%;
+            margin-bottom: 2000px;
+            border-width:5%;
+            border-color:blue; 
+            border-style:solid;
+            font-size: 30px;
+            }
+            .writing{
+              
+            font-size: 24px;
+            color: rgb(41, 37, 37);
+            opacity: .8;
+            padding: 1.5%;
+            }
+            .button{
+            text-align: center;
+            }
+            .b3{
+                font-size: 20px;
+                border-width: 2px;
+                border-style: outset;
+                border-color: blue;
+                padding: 5% 15%;
+                font-weight: 400; 
+            }
+            .over{
+                width: 300px;
+                height: 400px;
+                background-color: black;
+                position: absolute;
+                margin-left: 14%;
+                margin-top: 5%;
+                border-style: solid;
+                border-width: 5%;
+                border-color: black;
+                border-radius: 3%;
+               z-index: 10;
+               opacity: 1;
+               transition: 2.5s;
+            }
+            .over2{
+                width: 300px;
+                height: 400px;
+                background-color: black;
+                position: absolute;
+                margin-left: 790px;
+                margin-top: 5%;
+                border-style: solid;
+                border-width: 5%;
+                border-color: black;
+                border-radius: 3%;
+                z-index: 11;
+                opacity: 1;
+                transition: 2.5s;
+            }
+            .over3{
+                width: 300px;
+                height: 400px;
+                background-color: rgb(0, 0, 0);
+                position: absolute;
+                margin-left:70%;
+                margin-top:5%;
+                border-style: solid;
+                border-width: 5%;
+                border-color: rgb(0, 0, 0);
+                border-radius: 3%;
+                z-index: 12;
+                opacity: 1;
+                transition: 2.5s;
+            }
+            .p1{
+                font-size: 25PX;
+                color: aliceblue;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin-top: 5%;
+                text-align: center;
+            }
+            .p2{
+                font-size: 25PX;
+                color: aliceblue;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin-top: 5%;
+                text-align: center;
+            }
+            .p3{
+                font-size: 25PX;
+                color: aliceblue;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin-top: 5%;
+                text-align: center;
+            }
+            .over:hover {
+                opacity: 0;
+    
+            }
+            .over2:hover {
+                opacity: 0;
+    
+            }
+            .over3:hover {
+                opacity: 0;
+        
+                 }
+                 .over::after{
+                    position: absolute;
+                    content: "";
+                    width: 0%;
+                    height: 0%;
+                    top: 0;
+                    left: 0;
+                    background-color: rgb(0, 0, 0);
+                    opacity: 0;
+                    transition: .4s;
+                   
+                 
+                    }
+                    .over:hover::after {
+                        width: 100%;
+                        height: 100%;
+                        opacity: 1;
+            
+                        }
+                    .over2::after{
+                    position: absolute;
+                    content: "";
+                    width: 0%;
+                    height: 0%;
+                    top: 0;
+                    left: 0;
+                    background-color: rgb(0, 0, 0);
+                    opacity: 0;
+                    transition: .4s;
+                   
+                 
+                    }
+                    .over2:hover::after {
+                        width: 100%;
+                        height: 100%;
+                        opacity: 1;
+            
+                        }  
+                .over3::after{
+                 position: absolute;
+                    content: "";
+                     width: 0%;
+                    height: 0%;
+                     top: 0;
+                    left: 0;
+                    background-color: rgb(0, 0, 0);
+                    opacity: 0;
+                     transition: .4s;
+                     }
+                     .over3:hover::after {
+                     width: 100%;
+                     height: 100%;
+                     opacity: 1;
+                    } 
+        .img9{
+            background-image: url(https://trumpwallpapers.com/wp-content/uploads/Coffee-Wallpaper-41-1920x1080-1.jpg);
+           background-attachment: fixed;
+           background-repeat:no-repeat;
+          position: absolute;
+            left: 0;
+            width: 100%;
+            height: 40%;
+            margin-top: 15%;
+        }
+        .img10{
+            position: relative;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-top: 5%;
+            margin-left: 600px;
+            z-index: 120;
+        }
+        .overlay4{
+            background-color: rgb(0, 0, 0 , .6);
+            z-index: 100;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            margin-top: -10.2%;
+        }
+        .hh21{
+            position: absolute;
+         color: aliceblue;
+         display: inline;
+         margin-top: 6%;
+         margin-left: 2%;
+         z-index: 120;
+        }
+        .p4{
+            position: absolute;
+         color: rgb(4, 136, 252);
+         display: inline;
+         margin-top: 8%;
+         margin-left: 2%;
+         z-index: 120;
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         font-size: 19px;
+        }
+        .p5{
+            position: absolute;
+            font-size: 18px;
+            color: aliceblue;
+            z-index: 120;
+            margin-left: 31.3%;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-top: 2%;
+            
+        }
+        .bfsec{
+        overflow: auto;
+        margin-top: 8%;
+        margin-left: 6.5%;
+        }
+        .bfsec1{
+        width: 450px;
+        height: 450px;
+        background-color: rgb(0, 0, 0, .1);
+        float: left;
+        margin-right:150px ;
+        }
+        .bfsec2{
+            width: 450px;
+            height: 450px;
+            background-color: rgb(0, 0, 0, .1);
+            float: left;
+            margin-right:120px;
+        }
+        .bfsec3{
+            width: 450px;
+            height: 450px;
+            background-color: rgb(0, 0, 0, .1);
+            float: left;
+        }
+        .hh5{
+            color: black;
+            margin-top: 900px;
+            text-align: center;
+            font-size: 28px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .blank3{
+            width: 200px;
+            height: 5px;
+            background-color: rgb(32, 32, 252);
+            margin-left: 840px;
+            margin-top: -1%;
+            line-height: 1%;
+        }
+        .img8{
+        width: 450px;
+        height: 280px;
+
+        }
+        .img11{
+            width: 450px;
+            height: 280px;  
+         }
+        .img12{
+        width: 450px;
+        height: 280px;
+        }
+        .speak{
+            background-color: black;
+            width: 450px;
+            height: 170px;
+        }
+
+        .i14{
+            color: aliceblue;
+            margin-top: -9%;
+            margin-left: 57%;
+            
+        }
+        .speak2{
+            font-size: 15px;
+            color: aliceblue;
+           
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .i15{
+            color: aliceblue;
+            margin-top: -9%;
+            margin-left: 2%;
+            
+        }
+        .speak3{
+            font-size: 15px;
+            color: aliceblue;
+           
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .i16{
+            color: aliceblue;
+            margin-top: -9%;
+            margin-left: 2%;
+            
+        }
+        .speak4{
+            font-size: 15px;
+            color: aliceblue;
+           
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }        
+        .h22{
+            color: rgb(255, 255, 255);
+            font-size: 20px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 1%;
+        }
+        .speak5{
+                font-size: 20px;
+                color: rgb(178, 188, 197);
+                margin-top: -2%; 
+                margin-left: 1%;  
+        }
+        .batot{
+            text-decoration: none;
+            color: rgb(25, 101, 168);
+            font-size: 20;
+            margin-left: 175px;
+        }
+        .lastsec{
+            width: 1900px;
+            height: 300px;
+            background-color: rgb(0, 0, 0);
+            margin-top: 12%;
+            position:absolute ;
+            left: 0;
+            
+        }
+        .p6{
+            color: aliceblue;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 25PX;
+            display: inline;
+        }
+        .p7{
+            color: aliceblue;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 20PX;
+            margin-top: 1%;
+        }
+        .i115{
+            font-size: 24px;
+            color: aliceblue;
+            margin-right: 2%;
+            margin-left: 76.4%;
+            transition: .2s;
+           
+        }
+        .i116{
+            font-size: 24px;
+            color: aliceblue;
+            margin-right: 2%;
+            transition: .2s;
+        }        
+        .i117{
+            font-size: 24px;
+            color: aliceblue;
+            margin-right: 2%;
+            transition: .2s;
+        }
+        .i118{
+            font-size: 24px;
+            color: aliceblue;
+            margin-right: 2%;
+            transition: .2s;
+        }
+        .i115:hover{
+            font-size: 30px;
+            color: rgb(0, 112, 209);
+        }
+        .i116:hover{
+            font-size: 30px;
+            color: rgb(240, 5, 5);
+        } 
+        .i117:hover{
+            font-size: 30px;
+            color: rgb(0, 112, 209);
+        } 
+        .i118:hover{
+            font-size: 30px;
+            color: rgb(240, 5, 5);
+        }  
+        .p8{
+            color: aliceblue;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 20PX;
+            margin-top: 2.5%;
+        }                       
+        .p9{
+            color: aliceblue;
+            text-align: center;
+            margin-top: 6.5%;
+            opacity: .7;
+        }
+        .hr{
+            width: 40px;
+            margin-top: -1%;
+            visibility: hidden;
+            transition: .3s;
+        }
+        .home:hover .hr{
+          visibility: visible;
+          border-color: rgb(0, 0, 255);
+        }
+        .services:hover .hr{
+            visibility: visible;
+            border-color: rgb(0, 0, 255);
+        }
+        .price:hover .hr{
+          visibility: visible;
+          border-color: rgb(0, 0, 255);
+        } 
+        .team:hover .hr{
+            visibility: visible;
+            border-color: rgb(0, 0, 255);
+        }
+        .blog:hover .hr{
+            visibility: visible;
+            border-color: rgb(0, 0, 255);
+          }
+          .about:hover .hr{
+            visibility: visible;
+            border-color: rgb(0, 0, 255);
+          } 
+          .contact:hover .hr{
+            visibility: visible;
+            border-color: rgb(0, 0, 255);
+          } 
+          .log:hover .hr{
+            visibility: visible;
+            border-color: rgb(0, 0, 255);
+
+          }                                 
